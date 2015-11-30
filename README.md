@@ -1,4 +1,4 @@
-关于怎样使用GitHub的问题，有如下几个值得学习的去处
+关于怎样使用GitHub的问题，有如下几个值得学习的去处：
 
 http://www.worldhello.net/gotgithub/
 
