@@ -6,8 +6,7 @@ http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b0
 
 http://www.zhihu.com/question/20070065
 
-另外，讲下简易的使用方法
-大致有以下几个步骤,
+另外，讲下简易的使用方法大致有以下几个步骤
 mkdir test
 cd test
 git init   //初始化，本地建立空仓
