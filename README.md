@@ -21,6 +21,7 @@ git commit -m "描述本次提交"
 publish repository //非命令行
 
 
+
 其次，关于更详细地使用GitHub的问题，有如下几个值得学习的好去处
 
 http://www.worldhello.net/gotgithub/
